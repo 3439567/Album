@@ -1,0 +1,42 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    min-height: 20px;
+    width: 970px;
+    background-color: #303030;
+    color: white;
+    text-align: left;
+    align-items: center;
+    display: flex;
+}
+.container
+{
+    min-height: 250px;
+    background-color:whitesmoke;
+    color: black;
+    width: 400px;
+    
+    text-align: center;
+    align-items: center;
+}
+.footer
+{
+    min-height: 250px;
+    background-color:#d7d5de;
+    color: white;
+    width: 970px;
+    text-align: center;
+    align-items: center;
+}
+.card-body
+{
+text-color:black;
+
+}
+
+
